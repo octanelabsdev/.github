@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/assets/octanelabs-mark.png" alt="Octane Labs" width="120" height="120" />
+  <img src="https://raw.githubusercontent.com/octanelabsdev/.github/main/profile/assets/octanelabs-mark.png" alt="Octane Labs" width="120" height="120" />
 
   <h1>Octane Labs</h1>
 
